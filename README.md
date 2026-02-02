@@ -1,2 +1,6 @@
-# python-practice-projects
-Python practice projects built while learning and improving Python skills
+# Python Practice Projects
+
+This repository contains small Python projects that I build regularly
+to practice and improve my Python skills.
+
+Each folder represents one project.
